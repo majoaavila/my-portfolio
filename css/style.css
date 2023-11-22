@@ -40,7 +40,7 @@ body {
     line-height: 1.8;
     color: #272727;
     background-color: #FFDEE8;
-    background-image: url('/img/background.png');
+    background-image: url('/my-portfolio/img/background.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
